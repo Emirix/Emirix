@@ -47,8 +47,7 @@
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> </code>
-  <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> </code>
-  <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </code>
+  <code> <img align="left" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> </code>
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"> </code>
