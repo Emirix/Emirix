@@ -37,9 +37,14 @@
   <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </code>
   
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></code>
-
-  <code> <img align="left" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> </code>
-  <code> <img align="left" height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
+<table>
+  <tr>
+    <td><img align="left" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> </td>
+    <td><img align="left" height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></td>
+  </tr>
+ </table>
+  <code> </code>
+  <code>  </code>
   <code> <img align="left" height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
